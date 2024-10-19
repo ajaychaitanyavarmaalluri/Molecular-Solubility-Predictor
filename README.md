@@ -1,0 +1,1 @@
+Concept: The concept involves utilizing machine learning algorithms, particularly algorithms such as, random forest and linear regression to perform predictions on certain molecules or chemical compunds.
